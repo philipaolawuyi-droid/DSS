@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Philip Olawuyi",
+      "email": "philip@example.com",
+      "school": "SJCCC",
+      "year": 2026,
+      "bio": "Building meaningful connections with fellow alumni."
+    },
+    {
+      "id": 2,
+      "name": "Emmanuel Balogun",
+      "email": "emmanuel@example.com",
+      "school": "SJCCC",
+      "year": 2026,
+      "bio": "Interested in technology, business, and collaboration."
+    },
+    {
+      "id": 3,
+      "name": "Amaka Johnson",
+      "email": "amaka@example.com",
+      "school": "St. Mary's College",
+      "year": 2025,
+      "bio": "Creative professional and lifelong learner."
+    },
+    {
+      "id": 4,
+      "name": "Daniel Williams",
+      "email": "daniel@example.com",
+      "school": "SJCCC",
+      "year": 2024,
+      "bio": "Entrepreneur and community volunteer."
+    }
+  ],
+  "connections": [],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 2,
+      "content": "One may be sad alone, but it takes two or more to believe in what you can do best.",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2026-10-24T01:07:41.684Z"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "content": "Throwback to graduation day. Grateful for every friendship made along the way.",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2026-10-24T01:07:41.684Z"
+    }
+  ],
+  "conversations": [],
+  "messages": [],
+  "events": [
+    {
+      "id": 1,
+      "title": "Class of 2026 Reunion",
+      "date": "2026-12-12",
+      "location": "SJCCC Alumni Hall",
+      "description": "An evening of memories, music, and reconnecting with classmates.",
+      "attendees": [],
+      "createdBy": 1
+    },
+    {
+      "id": 2,
+      "title": "Alumni Career Conversation",
+      "date": "2027-01-16",
+      "location": "Online",
+      "description": "A practical conversation about career growth and lifelong learning.",
+      "attendees": [],
+      "createdBy": 1
+    }
+  ]
+}
